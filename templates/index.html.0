@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<body>
+  <header>
+     <h3>What is this? This is another header</h3>
+  </header>
+  <footer>
+     <h3>This is a footer</h3>
+  </footer>
+</body>
+</html>
